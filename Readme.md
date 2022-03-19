@@ -1,2 +1,1 @@
-- when we work with db, we init the db
-- control is on route --> controller (perform some ops) --> model
+# Library Management api
